@@ -1,0 +1,13 @@
+This package will perform DFT+DMFT calculations using free DFT codes (currently it is build upon VASP).
+"fortran" folder contains several fortran modules which will be used for runs.
+One can compile those modules and put them in "bin" directory.
+"ctqmc" folder contains the c++ program for DMFT impurity solver.
+One can compile this and put executable in "bin" directory.
+
+Currently we have one example of running DFT+DMFT.
+We need several input files including INPUT.py, POSCAR, POTCAR, KPOINTS, RUNDMFT.py.
+INPUT.py contains all input parameters used in calculations.
+RUNDMFT.py will be executed for DFT+DMFT runs.
+Currently, RUNDMFT will run vasp for DFT part but we will update it for other free DFT codes.
+
+

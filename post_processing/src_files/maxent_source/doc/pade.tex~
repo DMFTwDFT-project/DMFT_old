@@ -1,0 +1,52 @@
+\documentclass[twocolumn,prl,preprintnumbers,amsmath,amssymb,floatfix]{revtex4}
+\usepackage[linktocpage,bookmarksopen,bookmarksnumbered]{hyperref}
+\usepackage{graphicx}
+\usepackage{dcolumn}
+
+\usepackage{amsmath,graphics,epsfig,color,verbatim,ulem}
+\newcommand{\eps}{\epsilon} \renewcommand{\a}{\alpha}
+\renewcommand{\b}{\beta} \newcommand{\vR}{{\mathbf{R}}}
+\renewcommand{\vr}{{\mathbf{r}}} \newcommand{\vk}{{\mathbf{k}}}
+\newcommand{\vK}{{\mathbf{K}}} \newcommand{\vq}{{\mathbf{q}}}
+\newcommand{\vQ}{{\mathbf{Q}}} \newcommand{\vPhi}{{\mathbf{\Phi}}}
+\newcommand{\vS}{{\mathbf{S}}} \newcommand{\cG}{{\cal G}}
+\newcommand{\cF}{{\cal F}} \newcommand{\cD}{{\cal D}}
+\newcommand{\Tr}{\mathrm{Tr}} \newcommand{\npsi}{\underline{\psi}}
+\newcommand{\vA}{{\mathbf{A}}} \newcommand{\vE}{{\mathbf{E}}}
+\newcommand{\vj}{{\mathbf{j}}} \newcommand{\vv}{{\mathbf{v}}}
+\newcommand{\kb}{k_B} \newcommand{\cellvol}{}
+\newcommand{\trace}{\mbox{Tr}} \newcommand{\ra}{\rangle }
+\newcommand{\la}{\langle } \newcommand{\om}{\omega}
+\renewcommand{\Im}{\mathrm{Im}} \newcommand{\up}{\uparrow}
+\newcommand{\down}{\downarrow}
+\newcommand{\nphi}{\underline{\phi}}
+\newcommand{\tIm}{\overline{\Im}}
+
+
+%\setlength{\oddsidemargin}{-0.3in}
+%\setlength{\evensidemargin}{-0.30in}
+%\setlength{\textwidth}{7.3in}
+%\setlength{\topmargin}{-0.1in}
+%%%%\setlength{\leftmargin}{0.1in}
+%\setlength{\headheight}{0.1in}
+%\setlength{\headsep}{0in}
+%\setlength{\textheight}{9.8in}
+
+\begin{document}
+\special{papersize=8.5in,11in}
+\setlength{\pdfpageheight}{\paperheight}
+\setlength{\pdfpagewidth}{\paperwidth}
+
+\title{Fractional powerlaws and the nature of the incoherent states in iron chalcogenides and ruthenates}
+\author{Z. P. Yin}
+ \email{yinzping@physics.rutgers.edu}
+\author{K. Haule}
+\author{G. Kotliar}
+\affiliation{Department of Physics and Astronomy, Rutgers University, Piscataway, NJ 08854.}
+\date{\today}
+%%%%%%%
+\begin{abstract}
+\end{abstract}
+
+\maketitle
+\end{document}
